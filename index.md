@@ -5,3 +5,5 @@ nav_order: 1
 ---
 
 It's opia world!
+
+From Minsk
