@@ -1,6 +1,8 @@
 title: Opia World
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/opia.jpeg"
 
 logo: "/assets/images/opia.jpeg"
 
