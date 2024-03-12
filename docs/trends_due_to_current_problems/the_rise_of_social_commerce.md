@@ -25,7 +25,7 @@ _S-commerce in the context of the general e-commerce market_
 
 ## Social commerce sales
 
-![Social commerce sales!](/assets/images/social_commerce_sales.png "Social commerce sales")
+![Social commerce sales](/assets/images/social_commerce_sales.png "Social commerce sales")
 <p style="text-align:center">in billion U.S. dollars</p>
 
 ## Social commerce revenue worldwide
