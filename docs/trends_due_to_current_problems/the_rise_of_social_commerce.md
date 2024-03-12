@@ -21,14 +21,14 @@ _S-commerce in the context of the general e-commerce market_
 {: .highlight }
 > Market forecast to grow at CAGR of 30,7%
 
-![S-commerce Market](https://github.com/opia-world/en/blob/master/assets/images/s_commerce_market.png "S-commerce Market")
+![S-commerce Market](https://raw.githubusercontent.com/opia-world/en/blob/master/assets/images/s_commerce_market.png "S-commerce Market")
 
 ## Social commerce sales
 
-![Social commerce sales](https://github.com/opia-world/en/blob/master/assets/images/social_commerce_sales.png "Social commerce sales")
+![Social commerce sales](https://raw.githubusercontent.com/opia-world/en/blob/master/assets/images/social_commerce_sales.png "Social commerce sales")
 <p style="text-align:center">in billion U.S. dollars</p>
 
 ## Social commerce revenue worldwide
 
-![Social commerce revenue worldwide](https://github.com/opia-world/en/blob/master/assets/images/social_commerce_revenue_worldwide.png "Social commerce revenue worldwide")
+![Social commerce revenue worldwide](https://raw.githubusercontent.com/opia-world/en/blob/master/assets/images/social_commerce_revenue_worldwide.png "Social commerce revenue worldwide")
 <p style="text-align:center">in billion U.S. dollars</p>
