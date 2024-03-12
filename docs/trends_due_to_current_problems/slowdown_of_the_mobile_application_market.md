@@ -19,12 +19,12 @@ _The reasons mobile application are slowing down_
 
 ## Number of new apps
 
-![Number of new apps](/assets/images/number_of_apps.png "Number of new apps")
+![Number of new apps](https://github.com/opia-world/en/blob/master/assets/images/number_of_apps.png "Number of new apps")
 [Link to source](https://asomobile.net/en/blog/global-economic-trends-and-the-mobile-application-market/)
 
 ## Consumer spend by Quarter in Apps
 
-![Consumer spend by Quarter in Apps](/assets/images/consumer_spent.png "Consumer spend by Quarter in Apps")
+![Consumer spend by Quarter in Apps](https://github.com/opia-world/en/blob/master/assets/images/consumer_spent.png "Consumer spend by Quarter in Apps")
 [Link to source](https://asomobile.net/en/blog/global-economic-trends-and-the-mobile-application-market/)
 
 {: .highlight }

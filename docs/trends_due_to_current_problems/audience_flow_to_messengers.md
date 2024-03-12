@@ -14,10 +14,10 @@ _Currently, more than 5.16 billion people use the Internet, and social media use
 {: .highlight }
 > WeChat will be highlighted separately, since it is not developing for the whole world. WeChat is a product of China. All other messengers are prohibited in the current market.
 
-![Most popular social networks](/assets/images/most_popular_messengers.png "Most popular social networks")
+![Most popular social networks](https://github.com/opia-world/en/blob/master/assets/images/most_popular_messengers.png "Most popular social networks")
 [Statista](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/)
 
-![Top types of websites](/assets/images/top_types_of_websites.jpg "Top types of websites")
+![Top types of websites](https://github.com/opia-world/en/blob/master/assets/images/top_types_of_websites.jpg "Top types of websites")
 
 _**For communicating with friends and family through the internet, it is necessary to have a simple and fast way to send messages (text, voice, or video). Messengers provide this opportunity.**_
 
