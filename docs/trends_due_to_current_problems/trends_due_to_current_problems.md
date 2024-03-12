@@ -16,7 +16,7 @@ Today, it is vital to be where your audience is. it is important to have the pos
 
 Check the key problems details below:
 
-- [Slowdown of the mobile application market](/en/docs/trends_due_to_current_problems/slowdown_of_the_mobile_application_market.html)
-- [The rise of social commerce (s-commerce)](/en/docs/trends_due_to_current_problems/the_rise_of_social_commerce.html)
 - [Audience flow to messengers](/en/docs/trends_due_to_current_problems/audience_flow_to_messengers.html)
 - [Increased time spent in instant messengers](/en/docs/trends_due_to_current_problems/increased_time_spent_in_instant_messengers.html)
+- [Slowdown of the mobile application market](/en/docs/trends_due_to_current_problems/slowdown_of_the_mobile_application_market.html)
+- [The rise of social commerce (s-commerce)](/en/docs/trends_due_to_current_problems/the_rise_of_social_commerce.html)
