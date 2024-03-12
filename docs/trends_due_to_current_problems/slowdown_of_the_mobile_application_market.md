@@ -24,7 +24,7 @@ _The reasons mobile application are slowing down_
 
 ## Consumer spend by Quarter in Apps
 
-![Consumer spend by Quarter in Apps](https://raw.githubusercontent.com/opia-world/en/blob/master/assets/images/consumer_spent.png "Consumer spend by Quarter in Apps")
+![Consumer spend by Quarter in Apps](/en/assets/images/consumer_spent.png "Consumer spend by Quarter in Apps")
 [Link to source](https://asomobile.net/en/blog/global-economic-trends-and-the-mobile-application-market/)
 
 {: .highlight }
