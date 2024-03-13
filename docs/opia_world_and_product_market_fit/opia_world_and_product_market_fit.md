@@ -54,6 +54,6 @@ In the near future, we plan to expand our presence in the e-commerce and HoReCa 
 
 {: .highlight }
 > **We can influence this** (look at our cases)
-> [Cases and Metrics](https://opia-world.github.io/en/docs/cases_and_metrics.html)
+> [Cases and Metrics](https://opia-world.github.io/en/docs/cases_and_metrics/cases_and_metrics.html)
 
 [Product Market Fit (PMF)](https://opia-world.github.io/en/docs/opia_world_and_product_market_fit/product_market_fit.html)
