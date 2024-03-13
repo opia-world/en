@@ -9,6 +9,6 @@ parent: Why Telegram
 
 _Telegram Mini Apps (or TMAs) are web applications that run inside the Telegram messenger._
 
-![Mini Apps](https://docs.ton.org/files/twa.mp4 "Mini Apps")
-https://docs.ton.org/files/twa.mp4
+<iframe width="420" height="315" src="/en/miniapp.mp4" frameborder="0" allowfullscreen></iframe>
+
 [What are MiniApps?](https://docs.ton.org/develop/dapps/telegram-apps/ "What are MiniApps?")
