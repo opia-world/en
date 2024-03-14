@@ -6,8 +6,7 @@ nav_order: 2
 
 <h1>E-commerce problems<h1>
 <h3>Key problems of the e-commerce market that business and users face</h3>
-<ul>
-    <li><h2>Business problems</h2></li>
+<ul><li><h2>Business problems</h2></li>
         <ol>
             <li>The majority of the retail market is still offline <b>(80% as of 2023)</b>.</li>
             <li>The advertising and content spending is increasing <b>(According to 
