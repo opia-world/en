@@ -10,6 +10,7 @@ parent: Cases and metrics
 _Restaurant of Asian cuisine "UMAMI"_
 
 **Case**: "Delivery"
+
 **Location**: Minsk, Belarus
 
 {: .highlight }

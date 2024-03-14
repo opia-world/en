@@ -10,6 +10,7 @@ parent: Cases and metrics
 _French cuisine restaurant "Le cro cro"_
 
 **Case**: "Tables"
+
 **Location**: Minsk, Belarus
 
 {: .highlight }
