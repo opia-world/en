@@ -7,7 +7,7 @@ parent: Team
 
 # Dmitry L
 
-_CEO_{::nomarkdown}|{:/}_Founder_
+_CEO_ {::nomarkdown} | {:/} _Founder_
 
 ## Experience in short
 
@@ -25,4 +25,5 @@ _CEO_{::nomarkdown}|{:/}_Founder_
 ## Links
 
 [https://github.com/dmitrylavrenov](https://github.com/dmitrylavrenov)
+
 [https://www.linkedin.com/in/dmitry-lavrenov-60bb15122/](https://www.linkedin.com/in/dmitry-lavrenov-60bb15122/)
