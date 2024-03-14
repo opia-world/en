@@ -20,5 +20,5 @@ _The flow of the global market into e-commerce_
 
 ## Retail e-commerce sales compound annual growth rate (CAGR) from 2023 to 2027, by country
 
-![Retail sales](/en/assets/images/retail_sales.png "Retail Sales")
+![Retail sales](/en/assets/images/retail_sales.webp "Retail Sales")
 [Statista](https://www.statista.com/forecasts/220177/b2c-e-commerce-sales-cagr-forecast-for-selected-countries)
