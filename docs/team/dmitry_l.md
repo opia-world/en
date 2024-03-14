@@ -7,7 +7,7 @@ parent: Team
 
 # Dmitry L
 
-_CEO | Founder_
+_CEO_ | _Founder_
 
 ## Experience in short
 
