@@ -7,7 +7,7 @@ parent: Team
 
 # Dmitry L
 
-_CEO_ | _Founder_
+_CEO_{::nomarkdown}|{:/}_Founder_
 
 ## Experience in short
 
