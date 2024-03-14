@@ -42,7 +42,7 @@ Telegram has a solvent target audience that is interested in the topics of busin
 | 35 - 44 |21,3%|
 | 45 - 64 |18,5%|
 
-![Main reasons using social media_](/en/assets/images/main_reasons.png "Main reasons using social media_")
+![Main reasons using social media_](/en/assets/images/main_reasons.jpg "Main reasons using social media_")
 <p style="text-align:center">Table that shows that interest in shopping increases with age</p>
 
 ## Business usage
