@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-<h1>E-commerce problems<h1>
+<h1>E-commerce problems</h1>
 <h3>Key problems of the e-commerce market that business and users face</h3>
 <ul>
     <li><h2>Business problems</h2></li>
