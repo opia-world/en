@@ -1,7 +1,7 @@
 ---
 title: The rise of social commerce (s-commerce)
 layout: default
-nav_order: 3
+nav_order: 4
 parent: Trends due to current problems
 ---
 

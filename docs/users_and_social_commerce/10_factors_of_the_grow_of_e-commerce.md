@@ -1,7 +1,7 @@
 ---
 title: 10 factors for the growth of e-commerce in messengers
 layout: default
-nav_order: 4
+nav_order: 5
 parent: Users and social commerce
 ---
 

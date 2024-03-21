@@ -1,7 +1,7 @@
 ---
 title: E-commerce problems
 layout: default
-nav_order: 2
+nav_order: 3
 ---
 
 <h1>E-commerce problems</h1>

@@ -1,7 +1,7 @@
 ---
 title: Pickup / Fast Food
 layout: default
-nav_order: 8
+nav_order: 9
 parent: Cases and metrics
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: How do they sell through messengers now?
 layout: default
-nav_order: 4
+nav_order: 5
 parent: Messengers & Commerce
 ---
 
