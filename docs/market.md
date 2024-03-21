@@ -15,10 +15,12 @@ _The flow of the global market into e-commerce_
 
 ## Absorption of the retail market into e-commerce
 
-![Absorption](/en/assets/images/absorption.png "Absorption")
-[E-commerce as percentage of total retail sales worldwide from 2015 to 2017](https://www.statista.com/forecasts/220177/b2c-e-commerce-sales-cagr-forecast-for-selected-countries)
+| ![Absorption](/en/assets/images/absorption.png) |
+|:--:| 
+| [E-commerce as percentage of total retail sales worldwide from 2015 to 2017](https://www.statista.com/forecasts/220177/b2c-e-commerce-sales-cagr-forecast-for-selected-countries) |
 
 ## Retail e-commerce sales compound annual growth rate (CAGR) from 2023 to 2027, by country
 
-![Retail sales](/en/assets/images/retail_sales.webp "Retail Sales")
-[Statista](https://www.statista.com/forecasts/220177/b2c-e-commerce-sales-cagr-forecast-for-selected-countries)
+| ![Retail sales](/en/assets/images/retail_sales.webp "Retail Sales") |
+|:--:| 
+| [Statista](https://www.statista.com/forecasts/220177/b2c-e-commerce-sales-cagr-forecast-for-selected-countries) |
