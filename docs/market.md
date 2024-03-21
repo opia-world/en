@@ -8,7 +8,7 @@ nav_order: 2
 
 _The flow of the global market into e-commerce_
 
-{: .highlight }
+{: .note }
 > - In the eCommerce market, the number of users is expected to amount to 5.3bn users by 2027.
 > - User penetration will be 57.2% in 2023 and is expected to hit 66.6% by 2027.
 > - The average revenue per user (ARPU) is expected to amount to US$827.40 in a year.

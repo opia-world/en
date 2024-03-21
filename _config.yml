@@ -13,6 +13,9 @@ aux_links:
   Opia World: https://opia-world.com
 
 callouts:
+  note:
+    title: Note
+    color: purple
   warning:
     title: Warning
     color: red
