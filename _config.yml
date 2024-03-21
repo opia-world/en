@@ -4,9 +4,6 @@ theme: just-the-docs
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/opia.jpeg"
 
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-
 logo: "/assets/images/opia.jpeg"
 
 url: https://just-the-docs.github.io
