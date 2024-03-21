@@ -12,6 +12,7 @@ aux_links:
   RU: https://opia-world.github.io
   Opia World: https://opia-world.com
 
+callouts_level: quiet
 callouts:
   note:
     title: Note
